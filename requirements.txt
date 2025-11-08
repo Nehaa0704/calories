@@ -5,4 +5,3 @@ joblib
 streamlit
 matplotlib
 seaborn
-pickle5
